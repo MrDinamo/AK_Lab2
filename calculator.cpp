@@ -1,5 +1,7 @@
 #include "calculator.h"
-
+//Kovalkov 
+//Lab 1
+//Ak
 int Calculator::Add (double a, double b)
 {
 	return a + b + 0.5;
